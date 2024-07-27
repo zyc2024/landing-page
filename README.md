@@ -1,5 +1,7 @@
 # landing-page
 
+Welcome to my portfolio page. This is a work in progress at the moment.
+
 Credits:
 
 	Demo Images:
